@@ -1,6 +1,5 @@
 import random
 
-
 # ======== FUNCTIONS ==============
 
 def mensagem_inicio():
